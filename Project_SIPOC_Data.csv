@@ -1,0 +1,20 @@
+Phase,Details
+Supplier,"Inventory Vendors (Zara, Levis, Denim)"
+Supplier,IT Billing Software Provider
+Supplier,Store Managers
+Supplier,Logistics Partners
+Input,"Item Metadata (Category, Name)"
+Input,Pricing Data (Cost/Selling Price)
+Input,Store Location Data
+Input,Transaction Timestamp
+Process,1. Item Selection & Scanning
+Process,2. Price & Tax Validation
+Process,3. Payment Processing
+Process,4. Transaction Logging
+Output,Receipt Number (Unique ID)
+Output,Final Item Amount (Revenue)
+Output,Tax Reports
+Output,Error Flags (Revenue Leakage)
+Customer,"Store Operations (BLR, CHN, HYD)"
+Customer,Finance & Accounts Dept
+Customer,External Audit Teams
