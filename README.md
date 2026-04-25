@@ -1,5 +1,3 @@
-## 📊 Project Visualizations
-
 ### 1. Project Scoping & Baseline (Define Phase)
 Shows the initial identification of $98.22M in revenue leakage and a 3.27 Sigma baseline.
 ![Executive Summary](1_Executive_Summary.jpg)
